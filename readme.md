@@ -1,4 +1,4 @@
-# Hello, the approach I took follows the 5 SOLID principles
+# Hello, the approach I took follows the 5 SOLID principles and ensures a good, scalable starting point to apply design patterns in case of a larger project
 
 - All classes follow the Single Responsibility Principle.
 - "Vehicle" can be extended by adding new vehicle types without modifying existing code, adhering to Open/Closed Principle.
