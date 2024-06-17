@@ -9,7 +9,7 @@
 P.S.
 
 - only 3 example inputs have been generated in Main class according to business case.
-- In case of testing with more examples - assumptions have been made that the automated system will have valid- and within range inputs (e.g, 0 < Car safetyRating <= 5). Customer fields which are not required for insurance re-evaluation calculations in certain vehicles can be left as null during object creation.
+- In case of testing with more inputs/examples - assumptions have been made that the automated system will have valid- and within constraints inputs (e.g, 0 < Car safetyRating <= 5). Customer fields which are not required for insurance re-evaluation calculations in certain vehicles can be left as null during object creation.
 
 - IVehicle interface can be redundant since we already have an abstract class Vehicle where all methods are abstract methods.
 
